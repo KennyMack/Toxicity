@@ -1,0 +1,17 @@
+{
+  "name": "toxicity",
+  "version": "1.0.0",
+  "description": "Read the spreadsheet with toxic companies in Brazil",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "toxicity"
+  ],
+  "author": "Jonathan Vale",
+  "license": "MIT",
+  "dependencies": {
+    "public-google-sheets-parser": "^1.5.3"
+  }
+}
